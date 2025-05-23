@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop\\coffeeshop\\views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop\\coffeeshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop\\coffeeshop\\models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop\\coffeeshop\\models\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop\\coffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop\\coffeeshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop\\CoffeeShop\\Views\\Product\\Shop.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Product\\Shop.cshtml",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop\\CoffeeShop\\Views\\Product\\Shop.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Product\\Shop.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T14:45:32.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop\\CoffeeShop\\Models\\Services\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\Services\\ProductRepository.cs",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop\\CoffeeShop\\Models\\Services\\ProductRepository.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\Services\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:36:03.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop\\CoffeeShop\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Program.cs",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop\\CoffeeShop\\Program.cs",
+              "RelativeToolTip": "CoffeeShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:34:47.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop\\CoffeeShop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop\\CoffeeShop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CoffeeShop\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:34:02.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop\\CoffeeShop\\Models\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop\\CoffeeShop\\Models\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:29:08.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop\\CoffeeShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\Product.cs",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop\\CoffeeShop\\Models\\Product.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:25:42.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
