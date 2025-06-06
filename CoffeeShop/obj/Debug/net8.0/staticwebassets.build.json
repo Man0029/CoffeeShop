@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UveStTxylLieXjGokZQlshrjhrcAjgSv44vMfsWEISI=",
+  "Hash": "oKYv0uhO6kLEgZ1TM9l8uRnnH8otwiHupg1mXZ1URNE=",
   "Source": "CoffeeShop",
   "BasePath": "_content/CoffeeShop",
   "Mode": "Default",
@@ -3638,7 +3638,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jan 2023 16:22:16 GMT"
+          "Value": "Wed, 04 Jun 2025 07:22:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3675,7 +3675,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jan 2023 16:22:16 GMT"
+          "Value": "Wed, 04 Jun 2025 07:22:19 GMT"
         },
         {
           "Name": "Cache-Control",

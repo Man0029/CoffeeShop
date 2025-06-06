@@ -3,6 +3,7 @@ using CoffeeShop.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CoffeeShop.Migrations
 {
     [DbContext(typeof(CoffeeshopDbContext))]
-    partial class CoffeeshopDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250604084022_AddPricePrecision")]
+    partial class AddPricePrecision
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -54,7 +57,7 @@ namespace CoffeeShop.Migrations
                             Id = 1,
                             Detail = "Name product",
                             ImageUrl = "https://insanelygoodrecipes.com/wp-content/uploads/2020/07/Cup-Of-Creamy-Coffee-1024x536.webp",
-                            IsTrendingProduct = true,
+                            IsTrendingProduct = false,
                             Name = "America",
                             Price = 25m
                         },
@@ -63,7 +66,7 @@ namespace CoffeeShop.Migrations
                             Id = 2,
                             Detail = "Vietnamese product",
                             ImageUrl = "https://insanelygoodrecipes.com/wp-content/uploads/2020/07/Cup-Of-Creamy-Coffee-1024x536.webp",
-                            IsTrendingProduct = true,
+                            IsTrendingProduct = false,
                             Name = "Vietnam",
                             Price = 20m
                         },
@@ -72,7 +75,7 @@ namespace CoffeeShop.Migrations
                             Id = 3,
                             Detail = "UK product",
                             ImageUrl = "https://insanelygoodrecipes.com/wp-content/uploads/2020/07/Cup-Of-Creamy-Coffee-1024x536.webp",
-                            IsTrendingProduct = true,
+                            IsTrendingProduct = false,
                             Name = "United Kingdom",
                             Price = 15m
                         },
@@ -81,7 +84,7 @@ namespace CoffeeShop.Migrations
                             Id = 4,
                             Detail = "India product",
                             ImageUrl = "https://insanelygoodrecipes.com/wp-content/uploads/2020/07/Cup-Of-Creamy-Coffee-1024x536.webp",
-                            IsTrendingProduct = true,
+                            IsTrendingProduct = false,
                             Name = "India",
                             Price = 15m
                         },
@@ -90,7 +93,7 @@ namespace CoffeeShop.Migrations
                             Id = 5,
                             Detail = "Russian product",
                             ImageUrl = "https://insanelygoodrecipes.com/wp-content/uploads/2020/07/Cup-Of-Creamy-Coffee-1024x536.webp",
-                            IsTrendingProduct = true,
+                            IsTrendingProduct = false,
                             Name = "Russian",
                             Price = 25m
                         },
@@ -99,7 +102,7 @@ namespace CoffeeShop.Migrations
                             Id = 6,
                             Detail = "France product",
                             ImageUrl = "https://insanelygoodrecipes.com/wp-content/uploads/2020/07/Cup-Of-Creamy-Coffee-1024x536.webp",
-                            IsTrendingProduct = true,
+                            IsTrendingProduct = false,
                             Name = "France",
                             Price = 35m
                         });

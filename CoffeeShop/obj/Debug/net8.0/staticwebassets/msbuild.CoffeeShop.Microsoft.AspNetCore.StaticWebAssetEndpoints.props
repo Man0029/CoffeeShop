@@ -220,13 +220,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\mobirise\css\mbr-additional.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4luCzarSAZC\u002BacMRDiHRAvCVF4pe0739sY20FSU1OEk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"68712"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00224luCzarSAZC\u002BacMRDiHRAvCVF4pe0739sY20FSU1OEk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Jan 2023 16:22:16 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"68712"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00224luCzarSAZC\u002BacMRDiHRAvCVF4pe0739sY20FSU1OEk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Jun 2025 07:22:19 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CoffeeShop/assets/mobirise/css/mbr-additional.q1u4j4fzoj.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\mobirise\css\mbr-additional.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q1u4j4fzoj"},{"Name":"integrity","Value":"sha256-4luCzarSAZC\u002BacMRDiHRAvCVF4pe0739sY20FSU1OEk="},{"Name":"label","Value":"_content/CoffeeShop/assets/mobirise/css/mbr-additional.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"68712"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00224luCzarSAZC\u002BacMRDiHRAvCVF4pe0739sY20FSU1OEk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Jan 2023 16:22:16 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"68712"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00224luCzarSAZC\u002BacMRDiHRAvCVF4pe0739sY20FSU1OEk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Jun 2025 07:22:19 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CoffeeShop/assets/parallax/jarallax.2uvh05h4is.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\parallax\jarallax.js'))</AssetFile>
