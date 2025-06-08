@@ -3,6 +3,82 @@
   "WorkspaceRootPath": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\views\\orders\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\orders\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\views\\orders\\checkoutcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\orders\\checkoutcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\models\\services\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\services\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\models\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\models\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\models\\interfaces\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\interfaces\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\models\\services\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\services\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,32 +87,12 @@
       "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\views\\shared\\_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\shared\\_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,42 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\models\\services\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\services\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\data\\coffeeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\data\\coffeeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\models\\interfaces\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\interfaces\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\models\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\migrations\\20250523152556_firstcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,10 +117,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\migrations\\20250523152811_seeddata.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\migrations\\20250523152811_seeddata.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7E12935-F8FB-4574-A334-0FAD1995FEEA}|CoffeeShop\\CoffeeShop.csproj|d:\\th\u1EA7y t\u1EA5n\\(coffeshop)rework\\coffeeshop-s4\\coffeeshop\\wwwroot\\assets\\theme\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -124,11 +140,11 @@
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedHeight": 332,
           "SelectedChildIndex": 7,
           "Children": [
             {
@@ -145,212 +161,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Product.cshtml",
-              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Shared\\_Product.cshtml",
-              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Shared\\_Product.cshtml",
-              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Shared\\_Product.cshtml",
-              "RelativeToolTip": "CoffeeShop\\Views\\Shared\\_Product.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CheckoutComplete.cshtml",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Orders\\CheckoutComplete.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Orders\\CheckoutComplete.cshtml",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Orders\\CheckoutComplete.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Orders\\CheckoutComplete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-06T10:59:36.519Z"
+              "WhenOpened": "2025-06-08T09:54:12.57Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "CoffeeShop\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEwAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T16:17:33.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Product\\Detail.cshtml",
-              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Product\\Detail.cshtml",
-              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Product\\Detail.cshtml",
-              "RelativeToolTip": "CoffeeShop\\Views\\Product\\Detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwB8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T16:05:54.752Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Shop.cshtml",
-              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Product\\Shop.cshtml",
-              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Product\\Shop.cshtml",
-              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Product\\Shop.cshtml",
-              "RelativeToolTip": "CoffeeShop\\Views\\Product\\Shop.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T14:45:32.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "CoffeeShop\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "CoffeeShop\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T16:18:36.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "CoffeeShop\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "CoffeeShop\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T16:18:26.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\ShoppingCart\\Index.cshtml",
-              "RelativeDocumentMoniker": "CoffeeShop\\Views\\ShoppingCart\\Index.cshtml",
-              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\ShoppingCart\\Index.cshtml",
-              "RelativeToolTip": "CoffeeShop\\Views\\ShoppingCart\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-06T17:27:16.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "CoffeeShop\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T12:02:12.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ShoppingCartController.cs",
-              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Controllers\\ShoppingCartController.cs",
-              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\ShoppingCartController.cs",
-              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Controllers\\ShoppingCartController.cs",
-              "RelativeToolTip": "CoffeeShop\\Controllers\\ShoppingCartController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T17:00:56.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "CoffeeShop\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T14:34:02.937Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CoffeeShop\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T16:23:07.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "CoffeeShop\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADcAAAB0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T16:25:23.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Program.cs",
               "RelativeDocumentMoniker": "CoffeeShop\\Program.cs",
               "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Program.cs",
               "RelativeToolTip": "CoffeeShop\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T09:23:51.397Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T17:27:16.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ShoppingCartRepository.cs",
               "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Models\\Services\\ShoppingCartRepository.cs",
               "RelativeDocumentMoniker": "CoffeeShop\\Models\\Services\\ShoppingCartRepository.cs",
               "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Models\\Services\\ShoppingCartRepository.cs",
               "RelativeToolTip": "CoffeeShop\\Models\\Services\\ShoppingCartRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwEwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwEwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T16:46:58.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CoffeeshopDbContext.cs",
-              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Data\\CoffeeshopDbContext.cs",
-              "RelativeDocumentMoniker": "CoffeeShop\\Data\\CoffeeshopDbContext.cs",
-              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Data\\CoffeeshopDbContext.cs",
-              "RelativeToolTip": "CoffeeShop\\Data\\CoffeeshopDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T15:07:34.094Z"
+              "DocumentIndex": 0,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Orders\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Orders\\Checkout.cshtml",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Orders\\Checkout.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Orders\\Checkout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T08:23:18.627Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ShoppingCartItem.cs",
-              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Models\\ShoppingCartItem.cs",
-              "RelativeDocumentMoniker": "CoffeeShop\\Models\\ShoppingCartItem.cs",
-              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Models\\ShoppingCartItem.cs",
-              "RelativeToolTip": "CoffeeShop\\Models\\ShoppingCartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "CoffeeShop\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T16:27:26.624Z"
+              "WhenOpened": "2025-06-07T07:45:05.4Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IShoppingCartRepository.cs",
-              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Models\\Interfaces\\IShoppingCartRepository.cs",
-              "RelativeDocumentMoniker": "CoffeeShop\\Models\\Interfaces\\IShoppingCartRepository.cs",
-              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Models\\Interfaces\\IShoppingCartRepository.cs",
-              "RelativeToolTip": "CoffeeShop\\Models\\Interfaces\\IShoppingCartRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T16:45:41.632Z"
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADgAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T08:46:08.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 10,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Models\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Models\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T07:27:41.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Models\\Services\\ProductRepository.cs",
               "RelativeDocumentMoniker": "CoffeeShop\\Models\\Services\\ProductRepository.cs",
@@ -362,19 +270,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "20250606164417_addShoppingCartItem.cs",
-              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Migrations\\20250606164417_addShoppingCartItem.cs",
-              "RelativeDocumentMoniker": "CoffeeShop\\Migrations\\20250606164417_addShoppingCartItem.cs",
-              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Migrations\\20250606164417_addShoppingCartItem.cs",
-              "RelativeToolTip": "CoffeeShop\\Migrations\\20250606164417_addShoppingCartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "CoffeeShop\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T16:44:17.425Z"
+              "WhenOpened": "2025-06-06T17:00:56.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Models\\Product.cs",
               "RelativeDocumentMoniker": "CoffeeShop\\Models\\Product.cs",
@@ -386,7 +294,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 12,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Models\\Services\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\Services\\OrderRepository.cs",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Models\\Services\\OrderRepository.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\Services\\OrderRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T07:28:28.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IShoppingCartRepository.cs",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Models\\Interfaces\\IShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\Interfaces\\IShoppingCartRepository.cs",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Models\\Interfaces\\IShoppingCartRepository.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\Interfaces\\IShoppingCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:45:41.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Models\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "CoffeeShop\\Models\\Interfaces\\IProductRepository.cs",
@@ -398,7 +330,151 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\Order.cs",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Models\\Order.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T07:21:35.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T07:22:21.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T16:17:33.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T16:05:54.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Product\\Shop.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Product\\Shop.cshtml",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Product\\Shop.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Product\\Shop.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T14:45:32.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T16:18:36.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Product.cshtml",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Shared\\_Product.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Shared\\_Product.cshtml",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Shared\\_Product.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Shared\\_Product.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T10:59:36.519Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T16:18:26.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T12:02:12.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CoffeeShop\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:34:02.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CoffeeShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:23:07.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250606164417_addShoppingCartItem.cs",
+              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Migrations\\20250606164417_addShoppingCartItem.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Migrations\\20250606164417_addShoppingCartItem.cs",
+              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Migrations\\20250606164417_addShoppingCartItem.cs",
+              "RelativeToolTip": "CoffeeShop\\Migrations\\20250606164417_addShoppingCartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:44:17.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "20250523152556_FirstCreate.cs",
               "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Migrations\\20250523152556_FirstCreate.cs",
               "RelativeDocumentMoniker": "CoffeeShop\\Migrations\\20250523152556_FirstCreate.cs",
@@ -410,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "CoffeeshopDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Migrations\\CoffeeshopDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "CoffeeShop\\Migrations\\CoffeeshopDbContextModelSnapshot.cs",
@@ -422,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "20250604084022_AddPricePrecision.Designer.cs",
               "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Migrations\\20250604084022_AddPricePrecision.Designer.cs",
               "RelativeDocumentMoniker": "CoffeeShop\\Migrations\\20250604084022_AddPricePrecision.Designer.cs",
@@ -434,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "20250523152811_seeddata.Designer.cs",
               "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\Migrations\\20250523152811_seeddata.Designer.cs",
               "RelativeDocumentMoniker": "CoffeeShop\\Migrations\\20250523152811_seeddata.Designer.cs",
@@ -446,19 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\appsettings.json",
-              "RelativeDocumentMoniker": "CoffeeShop\\appsettings.json",
-              "ToolTip": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\appsettings.json",
-              "RelativeToolTip": "CoffeeShop\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-23T15:08:45.834Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "script.js",
               "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\wwwroot\\assets\\theme\\js\\script.js",
               "RelativeDocumentMoniker": "CoffeeShop\\wwwroot\\assets\\theme\\js\\script.js",
@@ -470,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "mbr-additional.css",
               "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\wwwroot\\assets\\mobirise\\css\\mbr-additional.css",
               "RelativeDocumentMoniker": "CoffeeShop\\wwwroot\\assets\\mobirise\\css\\mbr-additional.css",
@@ -482,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "dbo.Products.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/TEOCON_TRUMLANG_SQLEXPRESS/CFSHOPDB/True/SqlTable/dbo.Products.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/TEOCON_TRUMLANG_SQLEXPRESS/CFSHOPDB/True/SqlTable/dbo.Products.sql",
@@ -491,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "mobirise2.css",
               "DocumentMoniker": "D:\\Th\u1EA7y T\u1EA5n\\(coffeshop)rework\\CoffeeShop-S4\\CoffeeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css",
               "RelativeDocumentMoniker": "CoffeeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css",
@@ -500,6 +564,16 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-05-31T15:58:20.502Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 59,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
